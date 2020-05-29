@@ -1,4 +1,4 @@
-FROM gcr.io/ashutosh1206/tibcobwcebaseimage
+FROM gcr.io/ashutosh1206/tibcobwcebaseimage:latest
 
 MAINTAINER tibco
 
